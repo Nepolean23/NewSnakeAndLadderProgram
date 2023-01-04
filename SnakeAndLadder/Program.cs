@@ -3,4 +3,7 @@
 //PlayerPosition.position();
 
 //Player Rolls Dies
-PlayerRollsADies.RollDies();
+//PlayerRollsADies.RollDies();
+
+//Player Checks For Noplay,Ladder,Snake
+PlayerChecksForOption.Option();
