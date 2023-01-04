@@ -9,4 +9,7 @@
 //PlayerChecksForOption.Option();
 
 //Player reaches Wining position
-PlayerReachesWiningPosition.Winingposition();
+//PlayerReachesWiningPosition.Winingposition();
+
+//Player reaches ExactPosition
+PlayerExactWiningPosition.ExactWining();
