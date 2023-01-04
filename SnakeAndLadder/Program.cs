@@ -15,4 +15,20 @@
 //PlayerExactWiningPosition.ExactWining();
 
 //Counting Number Of DiceRolled
-CountingOfDice.counts();
+//CountingOfDice.counts();
+
+//Playing NewGame With TwoPlayers
+PlayingNewGame player1= new PlayingNewGame();
+int a = player1.Dice();
+
+PlayingNewGame player2= new PlayingNewGame();
+int b= player2.Dice();
+
+if(a>b)
+{
+    Console.WriteLine("Player One Wins");
+}
+else if(b>a)
+{
+    Console.WriteLine("Player Two Wins");
+}
