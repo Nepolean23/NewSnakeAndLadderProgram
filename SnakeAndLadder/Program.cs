@@ -1,3 +1,6 @@
 ﻿using SnakeAndLadder;
+//Player Position
+//PlayerPosition.position();
 
-PlayerPosition.position();
+//Player Rolls Dies
+PlayerRollsADies.RollDies();
