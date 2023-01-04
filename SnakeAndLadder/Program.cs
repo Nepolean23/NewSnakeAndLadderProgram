@@ -12,4 +12,7 @@
 //PlayerReachesWiningPosition.Winingposition();
 
 //Player reaches ExactPosition
-PlayerExactWiningPosition.ExactWining();
+//PlayerExactWiningPosition.ExactWining();
+
+//Counting Number Of DiceRolled
+CountingOfDice.counts();
