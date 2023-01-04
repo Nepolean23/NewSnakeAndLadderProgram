@@ -6,4 +6,7 @@
 //PlayerRollsADies.RollDies();
 
 //Player Checks For Noplay,Ladder,Snake
-PlayerChecksForOption.Option();
+//PlayerChecksForOption.Option();
+
+//Player reaches Wining position
+PlayerReachesWiningPosition.Winingposition();
